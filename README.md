@@ -36,6 +36,6 @@ I'm proficient in a wide range of technologies, with a strong focus on the **MER
 ## 🎉 Fun Fact
 When I’m not coding, you can find me brainstorming with people who are building the future.
 
-![Coding GIF](https://pin.it/2rFIh7zyP)
+![Coding GIF](code.gif)
 
 Thanks for visiting my profile! Let's build something amazing together! 🚀
