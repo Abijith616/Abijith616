@@ -9,7 +9,7 @@ Hi there! I'm P S Abijith, a passionate **Full-Stack Developer** with a knack fo
 - 💻 **Focus**: Building robust web applications, optimizing backend systems, and crafting seamless user experiences.
 - 🌟 **Motto**: "Code is poetry, and I'm here to write epics!"
 - 📍 **Location**:India
-- 📫 **Contact**: abijithsubash616@gmail.com| LinkedIn:https://www.linkedin.com/in/psabijith | [Portfolio Website]
+- 📫 **Contact**: abijithsubash616@gmail.com| LinkedIn:https://www.linkedin.com/in/psabijith 
 
 ---
 
@@ -36,6 +36,6 @@ I'm proficient in a wide range of technologies, with a strong focus on the **MER
 ## 🎉 Fun Fact
 When I’m not coding, you can find me brainstorming with people who are building the future.
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/2rFIh7zyP))
 
 Thanks for visiting my profile! Let's build something amazing together! 🚀
